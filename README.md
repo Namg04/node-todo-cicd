@@ -65,7 +65,4 @@ Considering the pre-requisites of this project you may face the other following 
 
 
 
-or Run by docker compose
-
-test
 
