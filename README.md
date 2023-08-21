@@ -60,7 +60,9 @@ Considering the pre-requisites of this project you may face the other following 
 1. Check Groovy syntax while writing the build script.
 2. Open mentioned port in the inbound rules of the EC2 instance.
 3. Make sure mentioned port is free, and not used by other applications.
-4. If you encounter other errors, Google it and try to understand what mistake have you done also don't hesitate to ask with TWS community. 
+4. If you encounter other errors, Google it and try to understand what mistake have you done also don't hesitate to ask with TWS community.
+
+--------------------------------------------------------------------------------------------
 
 
 
